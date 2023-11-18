@@ -1,1 +1,1 @@
-The .scss (Sass) files are only available in the pro version.
+THE SCSS VERSION IS COMING SOON IM WORKING ON IT 
